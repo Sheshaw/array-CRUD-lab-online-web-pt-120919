@@ -9,7 +9,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  hi << "chayan"
+  cheese = ["high", "low", "below", "near"]
+  cheese << "chayan"
 end
 
 def add_element_to_start_of_array(array, element)
