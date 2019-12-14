@@ -4,11 +4,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [pie, cheese, girls, ladies]
+ hi = [pie, cheese, girls, ladies]
   
 end
 
 def add_element_to_end_of_array(array, element)
+  hi << big
   
 end
 
