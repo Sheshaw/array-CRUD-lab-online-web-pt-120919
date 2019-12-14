@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   cheese = ["high", "low", "below", "near", "arrays!"]
-  cheese.pop("arrays!")
+  cheese.pop
 end
 
 def remove_element_from_start_of_array(array)
