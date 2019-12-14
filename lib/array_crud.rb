@@ -7,7 +7,6 @@ def create_an_array
  hi = [pie, cheese, girls, ladies]
   
 end
-create_an_array
 
 def add_element_to_end_of_array(array, element)
   
